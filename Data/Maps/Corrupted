@@ -1,5 +1,0 @@
--G#
-
-Map_Height = 002 # It's actually 001 but if you put that, the program will crash when you try to interact
-Map_Width = 002
-[0, 1] = Tr_0001
