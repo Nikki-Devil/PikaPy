@@ -1,0 +1,5744 @@
+{
+  "Pokemons": [
+    {
+      "001": [
+        {
+          "Name": "Bulbasaur"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 318
+        },
+        {
+          "HP": 45
+        },
+        {
+          "Attack": 49
+        },
+        {
+          "Defense": 49
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 65
+        },
+        {
+          "Speed": 45
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "002": [
+        {
+          "Name": "Ivysaur"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 405
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 62
+        },
+        {
+          "Defense": 63
+        },
+        {
+          "SpAtk": 80
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 60
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "003": [
+        {
+          "Name": "Venusaur"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 525
+        },
+        {
+          "HP": 80
+        },
+        {
+          "Attack": 82
+        },
+        {
+          "Defense": 83
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 100
+        },
+        {
+          "Speed": 80
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "004": [
+        {
+          "Name": "Charmander"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 309
+        },
+        {
+          "HP": 39
+        },
+        {
+          "Attack": 52
+        },
+        {
+          "Defense": 43
+        },
+        {
+          "SpAtk": 60
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 65
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "005": [
+        {
+          "Name": "Charmeleon"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 405
+        },
+        {
+          "HP": 58
+        },
+        {
+          "Attack": 64
+        },
+        {
+          "Defense": 58
+        },
+        {
+          "SpAtk": 80
+        },
+        {
+          "SpDef": 65
+        },
+        {
+          "Speed": 80
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "006": [
+        {
+          "Name": "Charizard"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 534
+        },
+        {
+          "HP": 78
+        },
+        {
+          "Attack": 84
+        },
+        {
+          "Defense": 78
+        },
+        {
+          "SpAtk": 109
+        },
+        {
+          "SpDef": 85
+        },
+        {
+          "Speed": 100
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "007": [
+        {
+          "Name": "Squirtle"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 314
+        },
+        {
+          "HP": 44
+        },
+        {
+          "Attack": 48
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 64
+        },
+        {
+          "Speed": 43
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "008": [
+        {
+          "Name": "Wartortle"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 405
+        },
+        {
+          "HP": 59
+        },
+        {
+          "Attack": 63
+        },
+        {
+          "Defense": 80
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 58
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "009": [
+        {
+          "Name": "Blastoise"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 530
+        },
+        {
+          "HP": 79
+        },
+        {
+          "Attack": 83
+        },
+        {
+          "Defense": 100
+        },
+        {
+          "SpAtk": 85
+        },
+        {
+          "SpDef": 105
+        },
+        {
+          "Speed": 78
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "010": [
+        {
+          "Name": "Caterpie"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 195
+        },
+        {
+          "HP": 45
+        },
+        {
+          "Attack": 30
+        },
+        {
+          "Defense": 35
+        },
+        {
+          "SpAtk": 20
+        },
+        {
+          "SpDef": 20
+        },
+        {
+          "Speed": 45
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "011": [
+        {
+          "Name": "Metapod"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 205
+        },
+        {
+          "HP": 50
+        },
+        {
+          "Attack": 20
+        },
+        {
+          "Defense": 55
+        },
+        {
+          "SpAtk": 25
+        },
+        {
+          "SpDef": 25
+        },
+        {
+          "Speed": 30
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 120
+        }
+      ],
+      "012": [
+        {
+          "Name": "Butterfree"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 395
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 45
+        },
+        {
+          "Defense": 50
+        },
+        {
+          "SpAtk": 90
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "013": [
+        {
+          "Name": "Weedle"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 195
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 35
+        },
+        {
+          "Defense": 30
+        },
+        {
+          "SpAtk": 20
+        },
+        {
+          "SpDef": 20
+        },
+        {
+          "Speed": 50
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "014": [
+        {
+          "Name": "Kakuna"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 205
+        },
+        {
+          "HP": 45
+        },
+        {
+          "Attack": 25
+        },
+        {
+          "Defense": 50
+        },
+        {
+          "SpAtk": 25
+        },
+        {
+          "SpDef": 25
+        },
+        {
+          "Speed": 35
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 120
+        }
+      ],
+      "015": [
+        {
+          "Name": "Beedrill"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 395
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 90
+        },
+        {
+          "Defense": 40
+        },
+        {
+          "SpAtk": 45
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 75
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "016": [
+        {
+          "Name": "Pidgey"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 251
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 45
+        },
+        {
+          "Defense": 40
+        },
+        {
+          "SpAtk": 35
+        },
+        {
+          "SpDef": 35
+        },
+        {
+          "Speed": 56
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "017": [
+        {
+          "Name": "Pidgeotto"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 349
+        },
+        {
+          "HP": 63
+        },
+        {
+          "Attack": 60
+        },
+        {
+          "Defense": 55
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 71
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 120
+        }
+      ],
+      "018": [
+        {
+          "Name": "Pidgeot"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 479
+        },
+        {
+          "HP": 83
+        },
+        {
+          "Attack": 80
+        },
+        {
+          "Defense": 75
+        },
+        {
+          "SpAtk": 70
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 101
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "019": [
+        {
+          "Name": "Rattata"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 253
+        },
+        {
+          "HP": 30
+        },
+        {
+          "Attack": 56
+        },
+        {
+          "Defense": 35
+        },
+        {
+          "SpAtk": 25
+        },
+        {
+          "SpDef": 35
+        },
+        {
+          "Speed": 72
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "020": [
+        {
+          "Name": "Raticate"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 413
+        },
+        {
+          "HP": 55
+        },
+        {
+          "Attack": 81
+        },
+        {
+          "Defense": 60
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 97
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 127
+        }
+      ],
+      "021": [
+        {
+          "Name": "Spearow"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 262
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 60
+        },
+        {
+          "Defense": 30
+        },
+        {
+          "SpAtk": 31
+        },
+        {
+          "SpDef": 31
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "022": [
+        {
+          "Name": "Fearow"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 442
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 90
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 61
+        },
+        {
+          "SpDef": 61
+        },
+        {
+          "Speed": 100
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 90
+        }
+      ],
+      "023": [
+        {
+          "Name": "Ekans"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 288
+        },
+        {
+          "HP": 35
+        },
+        {
+          "Attack": 60
+        },
+        {
+          "Defense": 44
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 54
+        },
+        {
+          "Speed": 55
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "024": [
+        {
+          "Name": "Arbok"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 438
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 85
+        },
+        {
+          "Defense": 69
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 79
+        },
+        {
+          "Speed": 80
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 90
+        }
+      ],
+      "025": [
+        {
+          "Name": "Pikachu"
+        },
+        {
+          "Type1": "Electric"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 320
+        },
+        {
+          "HP": 35
+        },
+        {
+          "Attack": 55
+        },
+        {
+          "Defense": 40
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "026": [
+        {
+          "Name": "Raichu"
+        },
+        {
+          "Type1": "Electric"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 485
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 90
+        },
+        {
+          "Defense": 55
+        },
+        {
+          "SpAtk": 90
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 110
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "027": [
+        {
+          "Name": "Sandshrew"
+        },
+        {
+          "Type1": "Ground"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 300
+        },
+        {
+          "HP": 50
+        },
+        {
+          "Attack": 75
+        },
+        {
+          "Defense": 85
+        },
+        {
+          "SpAtk": 20
+        },
+        {
+          "SpDef": 30
+        },
+        {
+          "Speed": 40
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "028": [
+        {
+          "Name": "Sandslash"
+        },
+        {
+          "Type1": "Ground"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 450
+        },
+        {
+          "HP": 75
+        },
+        {
+          "Attack": 100
+        },
+        {
+          "Defense": 110
+        },
+        {
+          "SpAtk": 45
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 65
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 90
+        }
+      ],
+      "029": [
+        {
+          "Name": "Nidoran♀"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 275
+        },
+        {
+          "HP": 55
+        },
+        {
+          "Attack": 47
+        },
+        {
+          "Defense": 52
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 40
+        },
+        {
+          "Speed": 41
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 235
+        }
+      ],
+      "030": [
+        {
+          "Name": "Nidorina"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 365
+        },
+        {
+          "HP": 70
+        },
+        {
+          "Attack": 62
+        },
+        {
+          "Defense": 67
+        },
+        {
+          "SpAtk": 55
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 56
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 120
+        }
+      ],
+      "031": [
+        {
+          "Name": "Nidoqueen"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": "Ground"
+        },
+        {
+          "Total": 505
+        },
+        {
+          "HP": 90
+        },
+        {
+          "Attack": 92
+        },
+        {
+          "Defense": 87
+        },
+        {
+          "SpAtk": 75
+        },
+        {
+          "SpDef": 85
+        },
+        {
+          "Speed": 76
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "032": [
+        {
+          "Name": "Nidoran♂"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 273
+        },
+        {
+          "HP": 46
+        },
+        {
+          "Attack": 57
+        },
+        {
+          "Defense": 40
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 40
+        },
+        {
+          "Speed": 50
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 235
+        }
+      ],
+      "033": [
+        {
+          "Name": "Nidorino"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 365
+        },
+        {
+          "HP": 61
+        },
+        {
+          "Attack": 72
+        },
+        {
+          "Defense": 57
+        },
+        {
+          "SpAtk": 55
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 65
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 120
+        }
+      ],
+      "034": [
+        {
+          "Name": "Nidoking"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": "Ground"
+        },
+        {
+          "Total": 505
+        },
+        {
+          "HP": 81
+        },
+        {
+          "Attack": 102
+        },
+        {
+          "Defense": 77
+        },
+        {
+          "SpAtk": 85
+        },
+        {
+          "SpDef": 75
+        },
+        {
+          "Speed": 85
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "035": [
+        {
+          "Name": "Clefairy"
+        },
+        {
+          "Type1": "Fairy"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 323
+        },
+        {
+          "HP": 70
+        },
+        {
+          "Attack": 45
+        },
+        {
+          "Defense": 48
+        },
+        {
+          "SpAtk": 60
+        },
+        {
+          "SpDef": 65
+        },
+        {
+          "Speed": 35
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 150
+        }
+      ],
+      "036": [
+        {
+          "Name": "Clefable"
+        },
+        {
+          "Type1": "Fairy"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 483
+        },
+        {
+          "HP": 95
+        },
+        {
+          "Attack": 70
+        },
+        {
+          "Defense": 73
+        },
+        {
+          "SpAtk": 95
+        },
+        {
+          "SpDef": 90
+        },
+        {
+          "Speed": 60
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 25
+        }
+      ],
+      "037": [
+        {
+          "Name": "Vulpix"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 299
+        },
+        {
+          "HP": 38
+        },
+        {
+          "Attack": 41
+        },
+        {
+          "Defense": 40
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 65
+        },
+        {
+          "Speed": 65
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "038": [
+        {
+          "Name": "Ninetales"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 505
+        },
+        {
+          "HP": 73
+        },
+        {
+          "Attack": 76
+        },
+        {
+          "Defense": 75
+        },
+        {
+          "SpAtk": 81
+        },
+        {
+          "SpDef": 100
+        },
+        {
+          "Speed": 100
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "039": [
+        {
+          "Name": "Jigglypuff"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": "Fairy"
+        },
+        {
+          "Total": 270
+        },
+        {
+          "HP": 115
+        },
+        {
+          "Attack": 45
+        },
+        {
+          "Defense": 20
+        },
+        {
+          "SpAtk": 45
+        },
+        {
+          "SpDef": 25
+        },
+        {
+          "Speed": 20
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 170
+        }
+      ],
+      "040": [
+        {
+          "Name": "Wigglytuff"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": "Fairy"
+        },
+        {
+          "Total": 435
+        },
+        {
+          "HP": 140
+        },
+        {
+          "Attack": 70
+        },
+        {
+          "Defense": 45
+        },
+        {
+          "SpAtk": 85
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 45
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 50
+        }
+      ],
+      "041": [
+        {
+          "Name": "Zubat"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 245
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 45
+        },
+        {
+          "Defense": 35
+        },
+        {
+          "SpAtk": 30
+        },
+        {
+          "SpDef": 40
+        },
+        {
+          "Speed": 55
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "042": [
+        {
+          "Name": "Golbat"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 455
+        },
+        {
+          "HP": 75
+        },
+        {
+          "Attack": 80
+        },
+        {
+          "Defense": 70
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 75
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 90
+        }
+      ],
+      "043": [
+        {
+          "Name": "Oddish"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 320
+        },
+        {
+          "HP": 45
+        },
+        {
+          "Attack": 50
+        },
+        {
+          "Defense": 55
+        },
+        {
+          "SpAtk": 75
+        },
+        {
+          "SpDef": 65
+        },
+        {
+          "Speed": 30
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "044": [
+        {
+          "Name": "Gloom"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 395
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 70
+        },
+        {
+          "SpAtk": 85
+        },
+        {
+          "SpDef": 75
+        },
+        {
+          "Speed": 40
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 120
+        }
+      ],
+      "045": [
+        {
+          "Name": "Vileplume"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 490
+        },
+        {
+          "HP": 75
+        },
+        {
+          "Attack": 80
+        },
+        {
+          "Defense": 85
+        },
+        {
+          "SpAtk": 110
+        },
+        {
+          "SpDef": 90
+        },
+        {
+          "Speed": 50
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "046": [
+        {
+          "Name": "Paras"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": "Grass"
+        },
+        {
+          "Total": 285
+        },
+        {
+          "HP": 35
+        },
+        {
+          "Attack": 70
+        },
+        {
+          "Defense": 55
+        },
+        {
+          "SpAtk": 45
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 25
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "047": [
+        {
+          "Name": "Parasect"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": "Grass"
+        },
+        {
+          "Total": 405
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 95
+        },
+        {
+          "Defense": 80
+        },
+        {
+          "SpAtk": 60
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 30
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "048": [
+        {
+          "Name": "Venonat"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 305
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 55
+        },
+        {
+          "Defense": 50
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 45
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "049": [
+        {
+          "Name": "Venomoth"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 450
+        },
+        {
+          "HP": 70
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 60
+        },
+        {
+          "SpAtk": 90
+        },
+        {
+          "SpDef": 75
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "050": [
+        {
+          "Name": "Diglett"
+        },
+        {
+          "Type1": "Ground"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 265
+        },
+        {
+          "HP": 10
+        },
+        {
+          "Attack": 55
+        },
+        {
+          "Defense": 25
+        },
+        {
+          "SpAtk": 35
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 95
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "051": [
+        {
+          "Name": "Dugtrio"
+        },
+        {
+          "Type1": "Ground"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 405
+        },
+        {
+          "HP": 35
+        },
+        {
+          "Attack": 100
+        },
+        {
+          "Defense": 50
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 120
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 50
+        }
+      ],
+      "052": [
+        {
+          "Name": "Meowth"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 290
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 45
+        },
+        {
+          "Defense": 35
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 40
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "053": [
+        {
+          "Name": "Persian"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 440
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 70
+        },
+        {
+          "Defense": 60
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 65
+        },
+        {
+          "Speed": 115
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 90
+        }
+      ],
+      "054": [
+        {
+          "Name": "Psyduck"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 320
+        },
+        {
+          "HP": 50
+        },
+        {
+          "Attack": 52
+        },
+        {
+          "Defense": 48
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 55
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "055": [
+        {
+          "Name": "Golduck"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 500
+        },
+        {
+          "HP": 80
+        },
+        {
+          "Attack": 82
+        },
+        {
+          "Defense": 78
+        },
+        {
+          "SpAtk": 95
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 85
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "056": [
+        {
+          "Name": "Mankey"
+        },
+        {
+          "Type1": "Fighting"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 305
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 80
+        },
+        {
+          "Defense": 35
+        },
+        {
+          "SpAtk": 35
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "057": [
+        {
+          "Name": "Primeape"
+        },
+        {
+          "Type1": "Fighting"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 455
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 105
+        },
+        {
+          "Defense": 60
+        },
+        {
+          "SpAtk": 60
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 95
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "058": [
+        {
+          "Name": "Growlithe"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 350
+        },
+        {
+          "HP": 55
+        },
+        {
+          "Attack": 70
+        },
+        {
+          "Defense": 45
+        },
+        {
+          "SpAtk": 70
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 60
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "059": [
+        {
+          "Name": "Arcanine"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 555
+        },
+        {
+          "HP": 90
+        },
+        {
+          "Attack": 110
+        },
+        {
+          "Defense": 80
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 95
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "060": [
+        {
+          "Name": "Poliwag"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 300
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 50
+        },
+        {
+          "Defense": 40
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 40
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "061": [
+        {
+          "Name": "Poliwhirl"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 385
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 120
+        }
+      ],
+      "062": [
+        {
+          "Name": "Poliwrath"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": "Fighting"
+        },
+        {
+          "Total": 510
+        },
+        {
+          "HP": 90
+        },
+        {
+          "Attack": 95
+        },
+        {
+          "Defense": 95
+        },
+        {
+          "SpAtk": 70
+        },
+        {
+          "SpDef": 90
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "063": [
+        {
+          "Name": "Abra"
+        },
+        {
+          "Type1": "Psychic"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 310
+        },
+        {
+          "HP": 25
+        },
+        {
+          "Attack": 20
+        },
+        {
+          "Defense": 15
+        },
+        {
+          "SpAtk": 105
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 200
+        }
+      ],
+      "064": [
+        {
+          "Name": "Kadabra"
+        },
+        {
+          "Type1": "Psychic"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 400
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 35
+        },
+        {
+          "Defense": 30
+        },
+        {
+          "SpAtk": 120
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 105
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 100
+        }
+      ],
+      "065": [
+        {
+          "Name": "Alakazam"
+        },
+        {
+          "Type1": "Psychic"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 500
+        },
+        {
+          "HP": 55
+        },
+        {
+          "Attack": 50
+        },
+        {
+          "Defense": 45
+        },
+        {
+          "SpAtk": 135
+        },
+        {
+          "SpDef": 95
+        },
+        {
+          "Speed": 120
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 50
+        }
+      ],
+      "066": [
+        {
+          "Name": "Machop"
+        },
+        {
+          "Type1": "Fighting"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 305
+        },
+        {
+          "HP": 70
+        },
+        {
+          "Attack": 80
+        },
+        {
+          "Defense": 50
+        },
+        {
+          "SpAtk": 35
+        },
+        {
+          "SpDef": 35
+        },
+        {
+          "Speed": 35
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 180
+        }
+      ],
+      "067": [
+        {
+          "Name": "Machoke"
+        },
+        {
+          "Type1": "Fighting"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 405
+        },
+        {
+          "HP": 80
+        },
+        {
+          "Attack": 100
+        },
+        {
+          "Defense": 70
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 60
+        },
+        {
+          "Speed": 45
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 90
+        }
+      ],
+      "068": [
+        {
+          "Name": "Machamp"
+        },
+        {
+          "Type1": "Fighting"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 505
+        },
+        {
+          "HP": 90
+        },
+        {
+          "Attack": 130
+        },
+        {
+          "Defense": 80
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 85
+        },
+        {
+          "Speed": 55
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "069": [
+        {
+          "Name": "Bellsprout"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 300
+        },
+        {
+          "HP": 50
+        },
+        {
+          "Attack": 75
+        },
+        {
+          "Defense": 35
+        },
+        {
+          "SpAtk": 70
+        },
+        {
+          "SpDef": 30
+        },
+        {
+          "Speed": 40
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "070": [
+        {
+          "Name": "Weepinbell"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 390
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 90
+        },
+        {
+          "Defense": 50
+        },
+        {
+          "SpAtk": 85
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 55
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 120
+        }
+      ],
+      "071": [
+        {
+          "Name": "Victreebel"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 490
+        },
+        {
+          "HP": 80
+        },
+        {
+          "Attack": 105
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "072": [
+        {
+          "Name": "Tentacool"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 335
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 40
+        },
+        {
+          "Defense": 35
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 100
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "073": [
+        {
+          "Name": "Tentacruel"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 515
+        },
+        {
+          "HP": 80
+        },
+        {
+          "Attack": 70
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 80
+        },
+        {
+          "SpDef": 120
+        },
+        {
+          "Speed": 100
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 60
+        }
+      ],
+      "074": [
+        {
+          "Name": "Geodude"
+        },
+        {
+          "Type1": "Rock"
+        },
+        {
+          "Type2": "Ground"
+        },
+        {
+          "Total": 300
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 80
+        },
+        {
+          "Defense": 100
+        },
+        {
+          "SpAtk": 30
+        },
+        {
+          "SpDef": 30
+        },
+        {
+          "Speed": 20
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "075": [
+        {
+          "Name": "Graveler"
+        },
+        {
+          "Type1": "Rock"
+        },
+        {
+          "Type2": "Ground"
+        },
+        {
+          "Total": 390
+        },
+        {
+          "HP": 55
+        },
+        {
+          "Attack": 95
+        },
+        {
+          "Defense": 115
+        },
+        {
+          "SpAtk": 45
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 35
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 120
+        }
+      ],
+      "076": [
+        {
+          "Name": "Golem"
+        },
+        {
+          "Type1": "Rock"
+        },
+        {
+          "Type2": "Ground"
+        },
+        {
+          "Total": 495
+        },
+        {
+          "HP": 80
+        },
+        {
+          "Attack": 120
+        },
+        {
+          "Defense": 130
+        },
+        {
+          "SpAtk": 55
+        },
+        {
+          "SpDef": 65
+        },
+        {
+          "Speed": 45
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "077": [
+        {
+          "Name": "Ponyta"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 410
+        },
+        {
+          "HP": 50
+        },
+        {
+          "Attack": 85
+        },
+        {
+          "Defense": 55
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 65
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "078": [
+        {
+          "Name": "Rapidash"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 500
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 100
+        },
+        {
+          "Defense": 70
+        },
+        {
+          "SpAtk": 80
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 105
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 60
+        }
+      ],
+      "079": [
+        {
+          "Name": "Slowpoke"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": "Psychic"
+        },
+        {
+          "Total": 315
+        },
+        {
+          "HP": 90
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 40
+        },
+        {
+          "Speed": 15
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "080": [
+        {
+          "Name": "Slowbro"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": "Psychic"
+        },
+        {
+          "Total": 490
+        },
+        {
+          "HP": 95
+        },
+        {
+          "Attack": 75
+        },
+        {
+          "Defense": 110
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 30
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "081": [
+        {
+          "Name": "Magnemite"
+        },
+        {
+          "Type1": "Electric"
+        },
+        {
+          "Type2": "Steel"
+        },
+        {
+          "Total": 325
+        },
+        {
+          "HP": 25
+        },
+        {
+          "Attack": 35
+        },
+        {
+          "Defense": 70
+        },
+        {
+          "SpAtk": 95
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 45
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "082": [
+        {
+          "Name": "Magneton"
+        },
+        {
+          "Type1": "Electric"
+        },
+        {
+          "Type2": "Steel"
+        },
+        {
+          "Total": 465
+        },
+        {
+          "HP": 50
+        },
+        {
+          "Attack": 60
+        },
+        {
+          "Defense": 95
+        },
+        {
+          "SpAtk": 120
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 60
+        }
+      ],
+      "083": [
+        {
+          "Name": "Farfetch'd"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 352
+        },
+        {
+          "HP": 52
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 55
+        },
+        {
+          "SpAtk": 58
+        },
+        {
+          "SpDef": 62
+        },
+        {
+          "Speed": 60
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "084": [
+        {
+          "Name": "Doduo"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 310
+        },
+        {
+          "HP": 35
+        },
+        {
+          "Attack": 85
+        },
+        {
+          "Defense": 45
+        },
+        {
+          "SpAtk": 35
+        },
+        {
+          "SpDef": 35
+        },
+        {
+          "Speed": 75
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "085": [
+        {
+          "Name": "Dodrio"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 460
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 110
+        },
+        {
+          "Defense": 70
+        },
+        {
+          "SpAtk": 60
+        },
+        {
+          "SpDef": 60
+        },
+        {
+          "Speed": 100
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "086": [
+        {
+          "Name": "Seel"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 325
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 45
+        },
+        {
+          "Defense": 55
+        },
+        {
+          "SpAtk": 45
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 45
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "087": [
+        {
+          "Name": "Dewgong"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": "Ice"
+        },
+        {
+          "Total": 475
+        },
+        {
+          "HP": 90
+        },
+        {
+          "Attack": 70
+        },
+        {
+          "Defense": 80
+        },
+        {
+          "SpAtk": 70
+        },
+        {
+          "SpDef": 95
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "088": [
+        {
+          "Name": "Grimer"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 325
+        },
+        {
+          "HP": 80
+        },
+        {
+          "Attack": 80
+        },
+        {
+          "Defense": 50
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 25
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "089": [
+        {
+          "Name": "Muk"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 500
+        },
+        {
+          "HP": 105
+        },
+        {
+          "Attack": 105
+        },
+        {
+          "Defense": 75
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 100
+        },
+        {
+          "Speed": 50
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "090": [
+        {
+          "Name": "Shellder"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 305
+        },
+        {
+          "HP": 30
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 100
+        },
+        {
+          "SpAtk": 45
+        },
+        {
+          "SpDef": 25
+        },
+        {
+          "Speed": 40
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "091": [
+        {
+          "Name": "Cloyster"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": "Ice"
+        },
+        {
+          "Total": 525
+        },
+        {
+          "HP": 50
+        },
+        {
+          "Attack": 95
+        },
+        {
+          "Defense": 180
+        },
+        {
+          "SpAtk": 85
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 60
+        }
+      ],
+      "092": [
+        {
+          "Name": "Gastly"
+        },
+        {
+          "Type1": "Ghost"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 310
+        },
+        {
+          "HP": 30
+        },
+        {
+          "Attack": 35
+        },
+        {
+          "Defense": 30
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 35
+        },
+        {
+          "Speed": 80
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "093": [
+        {
+          "Name": "Haunter"
+        },
+        {
+          "Type1": "Ghost"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 405
+        },
+        {
+          "HP": 45
+        },
+        {
+          "Attack": 50
+        },
+        {
+          "Defense": 45
+        },
+        {
+          "SpAtk": 115
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 95
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 90
+        }
+      ],
+      "094": [
+        {
+          "Name": "Gengar"
+        },
+        {
+          "Type1": "Ghost"
+        },
+        {
+          "Type2": "Poison"
+        },
+        {
+          "Total": 500
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 60
+        },
+        {
+          "SpAtk": 130
+        },
+        {
+          "SpDef": 75
+        },
+        {
+          "Speed": 110
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "095": [
+        {
+          "Name": "Onix"
+        },
+        {
+          "Type1": "Rock"
+        },
+        {
+          "Type2": "Ground"
+        },
+        {
+          "Total": 385
+        },
+        {
+          "HP": 35
+        },
+        {
+          "Attack": 45
+        },
+        {
+          "Defense": 160
+        },
+        {
+          "SpAtk": 30
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "096": [
+        {
+          "Name": "Drowzee"
+        },
+        {
+          "Type1": "Psychic"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 328
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 48
+        },
+        {
+          "Defense": 45
+        },
+        {
+          "SpAtk": 43
+        },
+        {
+          "SpDef": 90
+        },
+        {
+          "Speed": 42
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "097": [
+        {
+          "Name": "Hypno"
+        },
+        {
+          "Type1": "Psychic"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 483
+        },
+        {
+          "HP": 85
+        },
+        {
+          "Attack": 73
+        },
+        {
+          "Defense": 70
+        },
+        {
+          "SpAtk": 73
+        },
+        {
+          "SpDef": 115
+        },
+        {
+          "Speed": 67
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "098": [
+        {
+          "Name": "Krabby"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 325
+        },
+        {
+          "HP": 30
+        },
+        {
+          "Attack": 105
+        },
+        {
+          "Defense": 90
+        },
+        {
+          "SpAtk": 25
+        },
+        {
+          "SpDef": 25
+        },
+        {
+          "Speed": 50
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 225
+        }
+      ],
+      "099": [
+        {
+          "Name": "Kingler"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 475
+        },
+        {
+          "HP": 55
+        },
+        {
+          "Attack": 130
+        },
+        {
+          "Defense": 115
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 75
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 60
+        }
+      ],
+      "100": [
+        {
+          "Name": "Voltorb"
+        },
+        {
+          "Type1": "Electric"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 330
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 30
+        },
+        {
+          "Defense": 50
+        },
+        {
+          "SpAtk": 55
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 100
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "101": [
+        {
+          "Name": "Electrode"
+        },
+        {
+          "Type1": "Electric"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 480
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 50
+        },
+        {
+          "Defense": 70
+        },
+        {
+          "SpAtk": 80
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 150
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 60
+        }
+      ],
+      "102": [
+        {
+          "Name": "Exeggcute"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Psychic"
+        },
+        {
+          "Total": 325
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 40
+        },
+        {
+          "Defense": 80
+        },
+        {
+          "SpAtk": 60
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 40
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 90
+        }
+      ],
+      "103": [
+        {
+          "Name": "Exeggutor"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": "Psychic"
+        },
+        {
+          "Total": 520
+        },
+        {
+          "HP": 95
+        },
+        {
+          "Attack": 95
+        },
+        {
+          "Defense": 85
+        },
+        {
+          "SpAtk": 125
+        },
+        {
+          "SpDef": 65
+        },
+        {
+          "Speed": 55
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "104": [
+        {
+          "Name": "Cubone"
+        },
+        {
+          "Type1": "Ground"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 320
+        },
+        {
+          "HP": 50
+        },
+        {
+          "Attack": 50
+        },
+        {
+          "Defense": 95
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 35
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "105": [
+        {
+          "Name": "Marowak"
+        },
+        {
+          "Type1": "Ground"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 425
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 80
+        },
+        {
+          "Defense": 110
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 45
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "106": [
+        {
+          "Name": "Hitmonlee"
+        },
+        {
+          "Type1": "Fighting"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 455
+        },
+        {
+          "HP": 50
+        },
+        {
+          "Attack": 120
+        },
+        {
+          "Defense": 53
+        },
+        {
+          "SpAtk": 35
+        },
+        {
+          "SpDef": 110
+        },
+        {
+          "Speed": 87
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "107": [
+        {
+          "Name": "Hitmonchan"
+        },
+        {
+          "Type1": "Fighting"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 455
+        },
+        {
+          "HP": 50
+        },
+        {
+          "Attack": 105
+        },
+        {
+          "Defense": 79
+        },
+        {
+          "SpAtk": 35
+        },
+        {
+          "SpDef": 110
+        },
+        {
+          "Speed": 76
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "108": [
+        {
+          "Name": "Lickitung"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 385
+        },
+        {
+          "HP": 90
+        },
+        {
+          "Attack": 55
+        },
+        {
+          "Defense": 75
+        },
+        {
+          "SpAtk": 60
+        },
+        {
+          "SpDef": 75
+        },
+        {
+          "Speed": 30
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "109": [
+        {
+          "Name": "Koffing"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 340
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 95
+        },
+        {
+          "SpAtk": 60
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 35
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 190
+        }
+      ],
+      "110": [
+        {
+          "Name": "Weezing"
+        },
+        {
+          "Type1": "Poison"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 490
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 90
+        },
+        {
+          "Defense": 120
+        },
+        {
+          "SpAtk": 85
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 60
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 60
+        }
+      ],
+      "111": [
+        {
+          "Name": "Rhyhorn"
+        },
+        {
+          "Type1": "Ground"
+        },
+        {
+          "Type2": "Rock"
+        },
+        {
+          "Total": 345
+        },
+        {
+          "HP": 80
+        },
+        {
+          "Attack": 85
+        },
+        {
+          "Defense": 95
+        },
+        {
+          "SpAtk": 30
+        },
+        {
+          "SpDef": 30
+        },
+        {
+          "Speed": 25
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 120
+        }
+      ],
+      "112": [
+        {
+          "Name": "Rhydon"
+        },
+        {
+          "Type1": "Ground"
+        },
+        {
+          "Type2": "Rock"
+        },
+        {
+          "Total": 485
+        },
+        {
+          "HP": 105
+        },
+        {
+          "Attack": 130
+        },
+        {
+          "Defense": 120
+        },
+        {
+          "SpAtk": 45
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 40
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 60
+        }
+      ],
+      "113": [
+        {
+          "Name": "Chansey"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 450
+        },
+        {
+          "HP": 250
+        },
+        {
+          "Attack": 5
+        },
+        {
+          "Defense": 5
+        },
+        {
+          "SpAtk": 35
+        },
+        {
+          "SpDef": 105
+        },
+        {
+          "Speed": 50
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 30
+        }
+      ],
+      "114": [
+        {
+          "Name": "Tangela"
+        },
+        {
+          "Type1": "Grass"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 435
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 55
+        },
+        {
+          "Defense": 115
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 40
+        },
+        {
+          "Speed": 60
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "115": [
+        {
+          "Name": "Kangaskhan"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 490
+        },
+        {
+          "HP": 105
+        },
+        {
+          "Attack": 95
+        },
+        {
+          "Defense": 80
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "116": [
+        {
+          "Name": "Horsea"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 295
+        },
+        {
+          "HP": 30
+        },
+        {
+          "Attack": 40
+        },
+        {
+          "Defense": 70
+        },
+        {
+          "SpAtk": 70
+        },
+        {
+          "SpDef": 25
+        },
+        {
+          "Speed": 60
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 225
+        }
+      ],
+      "117": [
+        {
+          "Name": "Seadra"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 440
+        },
+        {
+          "HP": 55
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 95
+        },
+        {
+          "SpAtk": 95
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 85
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 75
+        }
+      ],
+      "118": [
+        {
+          "Name": "Goldeen"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 320
+        },
+        {
+          "HP": 45
+        },
+        {
+          "Attack": 67
+        },
+        {
+          "Defense": 60
+        },
+        {
+          "SpAtk": 35
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 63
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 225
+        }
+      ],
+      "119": [
+        {
+          "Name": "Seaking"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 450
+        },
+        {
+          "HP": 80
+        },
+        {
+          "Attack": 92
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 68
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 60
+        }
+      ],
+      "120": [
+        {
+          "Name": "Staryu"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 340
+        },
+        {
+          "HP": 30
+        },
+        {
+          "Attack": 45
+        },
+        {
+          "Defense": 55
+        },
+        {
+          "SpAtk": 70
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 85
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 225
+        }
+      ],
+      "121": [
+        {
+          "Name": "Starmie"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": "Psychic"
+        },
+        {
+          "Total": 520
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 75
+        },
+        {
+          "Defense": 85
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 85
+        },
+        {
+          "Speed": 115
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 60
+        }
+      ],
+      "122": [
+        {
+          "Name": "Mr. Mime"
+        },
+        {
+          "Type1": "Psychic"
+        },
+        {
+          "Type2": "Fairy"
+        },
+        {
+          "Total": 460
+        },
+        {
+          "HP": 40
+        },
+        {
+          "Attack": 45
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 120
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "123": [
+        {
+          "Name": "Scyther"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 500
+        },
+        {
+          "HP": 70
+        },
+        {
+          "Attack": 110
+        },
+        {
+          "Defense": 80
+        },
+        {
+          "SpAtk": 55
+        },
+        {
+          "SpDef": 80
+        },
+        {
+          "Speed": 105
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "124": [
+        {
+          "Name": "Jynx"
+        },
+        {
+          "Type1": "Ice"
+        },
+        {
+          "Type2": "Psychic"
+        },
+        {
+          "Total": 455
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 50
+        },
+        {
+          "Defense": 35
+        },
+        {
+          "SpAtk": 115
+        },
+        {
+          "SpDef": 95
+        },
+        {
+          "Speed": 95
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "125": [
+        {
+          "Name": "Electabuzz"
+        },
+        {
+          "Type1": "Electric"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 490
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 83
+        },
+        {
+          "Defense": 57
+        },
+        {
+          "SpAtk": 95
+        },
+        {
+          "SpDef": 85
+        },
+        {
+          "Speed": 105
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "126": [
+        {
+          "Name": "Magmar"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 495
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 95
+        },
+        {
+          "Defense": 57
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 85
+        },
+        {
+          "Speed": 93
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "127": [
+        {
+          "Name": "Pinsir"
+        },
+        {
+          "Type1": "Bug"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 500
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 125
+        },
+        {
+          "Defense": 100
+        },
+        {
+          "SpAtk": 55
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 85
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "128": [
+        {
+          "Name": "Tauros"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 490
+        },
+        {
+          "HP": 75
+        },
+        {
+          "Attack": 100
+        },
+        {
+          "Defense": 95
+        },
+        {
+          "SpAtk": 40
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 110
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "129": [
+        {
+          "Name": "Magikarp"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 200
+        },
+        {
+          "HP": 20
+        },
+        {
+          "Attack": 10
+        },
+        {
+          "Defense": 55
+        },
+        {
+          "SpAtk": 15
+        },
+        {
+          "SpDef": 20
+        },
+        {
+          "Speed": 80
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 255
+        }
+      ],
+      "130": [
+        {
+          "Name": "Gyarados"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 540
+        },
+        {
+          "HP": 95
+        },
+        {
+          "Attack": 125
+        },
+        {
+          "Defense": 79
+        },
+        {
+          "SpAtk": 60
+        },
+        {
+          "SpDef": 100
+        },
+        {
+          "Speed": 81
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "131": [
+        {
+          "Name": "Lapras"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": "Ice"
+        },
+        {
+          "Total": 535
+        },
+        {
+          "HP": 130
+        },
+        {
+          "Attack": 85
+        },
+        {
+          "Defense": 80
+        },
+        {
+          "SpAtk": 85
+        },
+        {
+          "SpDef": 95
+        },
+        {
+          "Speed": 60
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "132": [
+        {
+          "Name": "Ditto"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 288
+        },
+        {
+          "HP": 48
+        },
+        {
+          "Attack": 48
+        },
+        {
+          "Defense": 48
+        },
+        {
+          "SpAtk": 48
+        },
+        {
+          "SpDef": 48
+        },
+        {
+          "Speed": 48
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 35
+        }
+      ],
+      "133": [
+        {
+          "Name": "Eevee"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 325
+        },
+        {
+          "HP": 55
+        },
+        {
+          "Attack": 55
+        },
+        {
+          "Defense": 50
+        },
+        {
+          "SpAtk": 45
+        },
+        {
+          "SpDef": 65
+        },
+        {
+          "Speed": 55
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "134": [
+        {
+          "Name": "Vaporeon"
+        },
+        {
+          "Type1": "Water"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 525
+        },
+        {
+          "HP": 130
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 60
+        },
+        {
+          "SpAtk": 110
+        },
+        {
+          "SpDef": 95
+        },
+        {
+          "Speed": 65
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "135": [
+        {
+          "Name": "Jolteon"
+        },
+        {
+          "Type1": "Electric"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 525
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 65
+        },
+        {
+          "Defense": 60
+        },
+        {
+          "SpAtk": 110
+        },
+        {
+          "SpDef": 95
+        },
+        {
+          "Speed": 130
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "136": [
+        {
+          "Name": "Flareon"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 525
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 130
+        },
+        {
+          "Defense": 60
+        },
+        {
+          "SpAtk": 95
+        },
+        {
+          "SpDef": 110
+        },
+        {
+          "Speed": 65
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "137": [
+        {
+          "Name": "Porygon"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 395
+        },
+        {
+          "HP": 65
+        },
+        {
+          "Attack": 60
+        },
+        {
+          "Defense": 70
+        },
+        {
+          "SpAtk": 85
+        },
+        {
+          "SpDef": 75
+        },
+        {
+          "Speed": 40
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "138": [
+        {
+          "Name": "Omanyte"
+        },
+        {
+          "Type1": "Rock"
+        },
+        {
+          "Type2": "Water"
+        },
+        {
+          "Total": 355
+        },
+        {
+          "HP": 35
+        },
+        {
+          "Attack": 40
+        },
+        {
+          "Defense": 100
+        },
+        {
+          "SpAtk": 90
+        },
+        {
+          "SpDef": 55
+        },
+        {
+          "Speed": 35
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "139": [
+        {
+          "Name": "Omastar"
+        },
+        {
+          "Type1": "Rock"
+        },
+        {
+          "Type2": "Water"
+        },
+        {
+          "Total": 495
+        },
+        {
+          "HP": 70
+        },
+        {
+          "Attack": 60
+        },
+        {
+          "Defense": 125
+        },
+        {
+          "SpAtk": 115
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 55
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "140": [
+        {
+          "Name": "Kabuto"
+        },
+        {
+          "Type1": "Rock"
+        },
+        {
+          "Type2": "Water"
+        },
+        {
+          "Total": 355
+        },
+        {
+          "HP": 30
+        },
+        {
+          "Attack": 80
+        },
+        {
+          "Defense": 90
+        },
+        {
+          "SpAtk": 55
+        },
+        {
+          "SpDef": 45
+        },
+        {
+          "Speed": 55
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "141": [
+        {
+          "Name": "Kabutops"
+        },
+        {
+          "Type1": "Rock"
+        },
+        {
+          "Type2": "Water"
+        },
+        {
+          "Total": 495
+        },
+        {
+          "HP": 60
+        },
+        {
+          "Attack": 115
+        },
+        {
+          "Defense": 105
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 80
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "142": [
+        {
+          "Name": "Aerodactyl"
+        },
+        {
+          "Type1": "Rock"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 515
+        },
+        {
+          "HP": 80
+        },
+        {
+          "Attack": 105
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 60
+        },
+        {
+          "SpDef": 75
+        },
+        {
+          "Speed": 130
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "143": [
+        {
+          "Name": "Snorlax"
+        },
+        {
+          "Type1": "Normal"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 540
+        },
+        {
+          "HP": 160
+        },
+        {
+          "Attack": 110
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 65
+        },
+        {
+          "SpDef": 110
+        },
+        {
+          "Speed": 30
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 25
+        }
+      ],
+      "144": [
+        {
+          "Name": "Articuno"
+        },
+        {
+          "Type1": "Ice"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 580
+        },
+        {
+          "HP": 90
+        },
+        {
+          "Attack": 85
+        },
+        {
+          "Defense": 100
+        },
+        {
+          "SpAtk": 95
+        },
+        {
+          "SpDef": 125
+        },
+        {
+          "Speed": 85
+        },
+        {
+          "Legendary": true
+        },
+        {
+          "CatchRate": 3
+        }
+      ],
+      "145": [
+        {
+          "Name": "Zapdos"
+        },
+        {
+          "Type1": "Electric"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 580
+        },
+        {
+          "HP": 90
+        },
+        {
+          "Attack": 90
+        },
+        {
+          "Defense": 85
+        },
+        {
+          "SpAtk": 125
+        },
+        {
+          "SpDef": 90
+        },
+        {
+          "Speed": 100
+        },
+        {
+          "Legendary": true
+        },
+        {
+          "CatchRate": 3
+        }
+      ],
+      "146": [
+        {
+          "Name": "Moltres"
+        },
+        {
+          "Type1": "Fire"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 580
+        },
+        {
+          "HP": 90
+        },
+        {
+          "Attack": 100
+        },
+        {
+          "Defense": 90
+        },
+        {
+          "SpAtk": 125
+        },
+        {
+          "SpDef": 85
+        },
+        {
+          "Speed": 90
+        },
+        {
+          "Legendary": true
+        },
+        {
+          "CatchRate": 3
+        }
+      ],
+      "147": [
+        {
+          "Name": "Dratini"
+        },
+        {
+          "Type1": "Dragon"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 300
+        },
+        {
+          "HP": 41
+        },
+        {
+          "Attack": 64
+        },
+        {
+          "Defense": 45
+        },
+        {
+          "SpAtk": 50
+        },
+        {
+          "SpDef": 50
+        },
+        {
+          "Speed": 50
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "148": [
+        {
+          "Name": "Dragonair"
+        },
+        {
+          "Type1": "Dragon"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 420
+        },
+        {
+          "HP": 61
+        },
+        {
+          "Attack": 84
+        },
+        {
+          "Defense": 65
+        },
+        {
+          "SpAtk": 70
+        },
+        {
+          "SpDef": 70
+        },
+        {
+          "Speed": 70
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "149": [
+        {
+          "Name": "Dragonite"
+        },
+        {
+          "Type1": "Dragon"
+        },
+        {
+          "Type2": "Flying"
+        },
+        {
+          "Total": 600
+        },
+        {
+          "HP": 91
+        },
+        {
+          "Attack": 134
+        },
+        {
+          "Defense": 95
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 100
+        },
+        {
+          "Speed": 80
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ],
+      "150": [
+        {
+          "Name": "Mewtwo"
+        },
+        {
+          "Type1": "Psychic"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 680
+        },
+        {
+          "HP": 106
+        },
+        {
+          "Attack": 110
+        },
+        {
+          "Defense": 90
+        },
+        {
+          "SpAtk": 154
+        },
+        {
+          "SpDef": 90
+        },
+        {
+          "Speed": 130
+        },
+        {
+          "Legendary": true
+        },
+        {
+          "CatchRate": 3
+        }
+      ],
+      "151": [
+        {
+          "Name": "Mew"
+        },
+        {
+          "Type1": "Psychic"
+        },
+        {
+          "Type2": ""
+        },
+        {
+          "Total": 600
+        },
+        {
+          "HP": 100
+        },
+        {
+          "Attack": 100
+        },
+        {
+          "Defense": 100
+        },
+        {
+          "SpAtk": 100
+        },
+        {
+          "SpDef": 100
+        },
+        {
+          "Speed": 100
+        },
+        {
+          "Legendary": false
+        },
+        {
+          "CatchRate": 45
+        }
+      ]
+    }
+  ]
+}
